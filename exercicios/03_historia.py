@@ -6,6 +6,9 @@ p3 = "Foi a melhor escolha que ela poderia ter feito. Aprendeu demais!"
 p4 = "Hoje, ela é referência na área de devops. Onde tudo começou lá atrás na LinuxTips"
 
 input(p1)
+
 input(p2)
+
 input(p3)
+
 input(p4)
